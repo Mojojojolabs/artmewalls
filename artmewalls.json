@@ -1,90 +1,914 @@
 {
-  "walls": [
-    {
-      "author": "David Astorga (IGL)",
-      "url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/wallpaper_viztushar.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/wallpaper_viztushar_thum.png",
-      "name": "Wallpaper 1"
-    },
-    {
-      "author": "Tushar Parmar",
-      "url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/code.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/code_thum.png",
-      "name": "#code"
-    },
-    {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413204.png",
-      "name": "Wallpaper 3"
-    },
-    {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp2.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413205.png",
-      "name": "Wallpaper 4"
-    },
-    {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp3.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413206.png",
-      "name": "Wallpaper 5"
-    },
-    {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp4.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413207.png",
-      "name": "Wallpaper 6"
-    },
-    {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp5.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413208.png",
-      "name": "Wallpaper 7"
-    }
-  ],
-  "walls2": [
-    {
-      "author": "David Astorga (IGL)",
-      "url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/wallpaper_viztushar.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/wallpaper_viztushar_thum.png",
-      "name": "Wallpaper"
-    },
-    {
-      "author": "Tushar Parmar",
-      "url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/code.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/code_thum.png",
-      "name": "#code"
-    },
-    {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413204.png",
-      "name": "Wallpaper 3"
-    },
-    {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp2.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413205.png",
-      "name": "Wallpaper 4"
-    },
-    {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp3.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413206.png",
-      "name": "Wallpaper 5"
-    },
-    {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp4.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413207.png",
-      "name": "Wallpaper 6"
-    },
-    {
-      "author": "Sajid Shaik",
-      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/wall-for-tp5.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image413208.png",
-      "name": "Wallpaper 7"
-    }
-  ]
+	"walls": [
+		{
+			"name": "10_blackracer",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/10_blackracer.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "1_BL",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/1_BL.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "1_reverseflash",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/1_reverseflash.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "2_RL",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/2_RL.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "2_theflash",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/2_theflash.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "3_kidflash",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/3_kidflash.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "3_OL",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/3_OL.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "4_SC",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/4_SC.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "4_zoom",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/4_zoom.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "5_GL",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/5_GL.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "5_kidflash_new52",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/5_kidflash_new52.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "6_blackflash",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/6_blackflash.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "6_BlueL",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/6_BlueL.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "7_godspeed",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/7_godspeed.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "7_IT",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/7_IT.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "8_reverseflash_new52",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/8_reverseflash_new52.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "8_star sapphire",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/8_star sapphire.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "9_jaygarrick",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/9_jaygarrick.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "9_jaygarrick2",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/9_jaygarrick2.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "9_WL",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/9_WL.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "avengers",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/avengers.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Batman1",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Batman1.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Batman2",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Batman2.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Batman3",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Batman3.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Batman4",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Batman4.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Batman75_1",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Batman75_1.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Batman75_2",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Batman75_2.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Batman75_3",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Batman75_3.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Batman75_4",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Batman75_4.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Batman_silhouette1",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Batman_silhouette1.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Batman_silhouette2",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Batman_silhouette2.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Batman_silhouette3",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Batman_silhouette3.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Batman_silhouette4",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Batman_silhouette4.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Batman_silhouette_city1",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Batman_silhouette_city1.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Batman_silhouette_city2",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Batman_silhouette_city2.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Batman_silhouette_city3",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Batman_silhouette_city3.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Batman_silhouette_larger",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Batman_silhouette_larger.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Batman_silhouette_larger2",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Batman_silhouette_larger2.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Batman_silhouette_larger4",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Batman_silhouette_larger4.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Batman_silhouette_logo",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Batman_silhouette_logo.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Batman_silhouette_logo2",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Batman_silhouette_logo2.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Batman_silhouette_logo3",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Batman_silhouette_logo3.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Batman_silhouette_logo4",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Batman_silhouette_logo4.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Batman_silhouette_logo_white",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Batman_silhouette_logo_white.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Batman_silhouette_white",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Batman_silhouette_white.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "black flash2_2",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/black flash2_2.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "black flash_2",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/black flash_2.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "black_widow",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/black_widow.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "blue_beetle",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/blue_beetle.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "bomb",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/bomb.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Bvs Bat1",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Bvs Bat1.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Bvs Bat2",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Bvs Bat2.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Bvs Bat3",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Bvs Bat3.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Bvs Bat4",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Bvs Bat4.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "bvs",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/bvs.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "bvs2",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/bvs2.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "captain_america",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/captain_america.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "catwoman",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/catwoman.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "chuck",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/chuck.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "cyclops",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/cyclops.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "daredevil",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/daredevil.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "deadpool",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/deadpool.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "deadpool2",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/deadpool2.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "FF",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/FF.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "flash",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/flash.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "flash2",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/flash2.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "flash3",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/flash3.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "godspeed2",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/godspeed2.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "hal",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/hal.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "hal2",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/hal2.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "hal3",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/hal3.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "hal4",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/hal4.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "hulk",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/hulk.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "hulk2",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/hulk2.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "hulk2_1",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/hulk2_1.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "hulk3",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/hulk3.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "hulk4",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/hulk4.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "hulk4_1",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/hulk4_1.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "hulk4_2",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/hulk4_2.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "hulk5",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/hulk5.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "hulk_1",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/hulk_1.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "iron_man",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/iron_man.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "iron_man1",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/iron_man1.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "iron_man2",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/iron_man2.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "iron_man3",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/iron_man3.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "iron_spider",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/iron_spider.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "kid flash",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/kid flash.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "kid flash2",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/kid flash2.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "kid flash3",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/kid flash3.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "king_pig",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/king_pig.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Man Of Steel Bright",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Man Of Steel Bright.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Man Of Steel",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Man Of Steel.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Man Of Steel2 Bright",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Man Of Steel2 Bright.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Man Of Steel2",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Man Of Steel2.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Man Of Steel3 Bright",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Man Of Steel3 Bright.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Man Of Steel3",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Man Of Steel3.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Man Of Steel4 Bright",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Man Of Steel4 Bright.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Man Of Steel4",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Man Of Steel4.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Man Of Steel5 Bright",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Man Of Steel5 Bright.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Man Of Steel5",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Man Of Steel5.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Nightwing",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Nightwing.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Nightwing2",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Nightwing2.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "punisher",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/punisher.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "red",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/red.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "red2",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/red2.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "red_hood",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/red_hood.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "reverse_flash",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/reverse_flash.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "reverse_flash2",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/reverse_flash2.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "reverse_flash3",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/reverse_flash3.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "reverse_flash_new 52",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/reverse_flash_new 52.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "reverse_flash_new 52_2",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/reverse_flash_new 52_2.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Robin",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Robin.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Robin2",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Robin2.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "spiderman2099ff",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/spiderman2099ff.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "spiderman2099ff_4",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/spiderman2099ff_4.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "spiderman_miles morales",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/spiderman_miles morales.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "spidey",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/spidey.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "spidey_civilwar",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/spidey_civilwar.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Superman_silhouette",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Superman_silhouette.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Superman_silhouette_eyesglow",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Superman_silhouette_eyesglow.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Superman_silhouette_logo",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Superman_silhouette_logo.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "Superman_silhouette_logo4",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/Superman_silhouette_logo4.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "symbiote",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/symbiote.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "terence",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/terence.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "theamazy",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/theamazy.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "theamazy2",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/theamazy2.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "underoos",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/underoos.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "war_machine",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/war_machine.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "x-men",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/x-men.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		},
+		{
+			"name": "zoom",
+			"author": "ArtMe",
+			"url": "https://raw.githubusercontent.com/Mojojojolabs/artmewalls/master/superhero/zoom.png",
+			"dimensions": "600 x 1067",
+			"copyright": "Copyright , 2017 MojoJojo!. All rights reserved."
+		}
+	]
 }
